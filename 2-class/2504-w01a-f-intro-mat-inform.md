@@ -1,18 +1,19 @@
 
 # Class 1: Introduction to Data-Driven Materials Discovery
-
-**Welcome!**
+## **Pawan K. Tripathi**
+Research Assistant Professor
+Case Western Reserve University, Cleveland, Ohio, USA
 
 ---
 
-## Today's Agenda (90 Minutes)
+## Today's Agenda 
 
-1.  **Welcome & Course Overview** (10 min)
-2.  **What are "Materials"?** (Conceptual View) (20 min)
-3.  **What is Data Science & AI?** (Review & Context) (20 min)
-4.  **Why Combine Them? Introduction to Materials Informatics (MI)** (20 min)
-5.  **MI Workflow Overview** (15 min)
-6.  **Q&A and Next Steps** (5 min)
+1.  **Welcome & Course Overview** 
+2.  **What are "Materials"?** (Conceptual View) 
+3.  **What is Data Science & AI?** (Review & Context) 
+4.  **Why Combine Them? Introduction to Materials Informatics (MI)** 
+5.  **MI Workflow Overview**
+6.  **Q&A and Next Steps** 
 
 ---
 
@@ -96,6 +97,7 @@ Upon successful completion of this course, students will be able to:
 * **Machine Learning (ML):** A subset of AI where systems learn patterns from data without being explicitly programmed for each task.
 
 *[Diagram: Venn diagram showing AI > ML > Data Science context]*
+![image](https://github.com/user-attachments/assets/fe264a5c-8215-414b-9bb0-30869e8fc585)
 
 ---
 

@@ -75,7 +75,8 @@ Upon successful completion of this course, students will be able to:
 
 * **Traditional Goal of Materials Science:** Design and discover new materials with desired properties through experimentation and physical understanding.
 
-*[Image: Collage of diverse materials applications - jet engine, solar panel, flexible screen, hip implant]*
+*![image](https://github.com/user-attachments/assets/b0961504-0e12-480f-9cc3-ea339b5f929d)
+*
 
 ---
 
@@ -131,7 +132,8 @@ Upon successful completion of this course, students will be able to:
 * **Goal:** Accelerate the discovery, design, and deployment of new materials.
 * Inspired by concepts like the **Materials Genome Initiative (MGI)**: Aiming to halve the time and cost of bringing new materials to market.
 
-*[Image: Logo of Materials Genome Initiative or a graphic showing data accelerating discovery]*
+*![image](https://github.com/user-attachments/assets/2e38735d-127c-4d08-8e7a-5f22243707c8)*
+######(Source:https://www.hitachi-hightech.com/us/en/products/ict-solution/randd/mi/) 
 
 ---
 

@@ -119,7 +119,8 @@ This guide provides a collection of helpful links and resources for students in 
     * [https://colab.research.google.com/](https://colab.research.google.com/) -  A free cloud-based environment to run Python notebooks.
 
 ### Books
-
+* **An Introduction to Statistical Learning**
+    * [https://www.statlearning.com/](https://www.statlearning.com/)
 * **Python Data Science Handbook**
     * **Author:** Jake VanderPlas
     * **Publisher:** O'Reilly Media

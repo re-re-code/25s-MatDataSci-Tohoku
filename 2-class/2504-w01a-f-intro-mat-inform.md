@@ -1,5 +1,5 @@
 
-# Class 1: Introduction to Data-Driven Materials Discovery
+# Class 1: Materials Informatics: Introduction to Materials Data Science
 ## **Pawan K. Tripathi**
 Research Assistant Professor
 Case Western Reserve University, Cleveland, Ohio, USA
@@ -33,12 +33,6 @@ Case Western Reserve University, Cleveland, Ohio, USA
 
 This course provides an introduction to the emerging field of Materials Informatics, which applies data science and machine learning techniques to accelerate the discovery, design, and development of new materials.  Students will learn how to acquire, analyze, and model materials data to solve real-world materials science problems.
 
-## Prerequisites
-
-* Basic understanding of materials science concepts
-* Familiarity with programming concepts (Python preferred)
-* Linear algebra and statistics fundamentals
-
 ## Course Objectives
 
 Upon successful completion of this course, students will be able to:
@@ -49,16 +43,15 @@ Upon successful completion of this course, students will be able to:
 * Design and execute materials discovery workflows.
 * Evaluate the performance of machine learning models in materials science.
 * Communicate materials informatics findings effectively.
+* Finish a project leveraging deep learning, graph learning for the materials image or tabular data
 ## Course Logistics
 
-* **Format:** 6 remote sessions (90 mins each) via [Platform Name, e.g., Zoom]
+* **Format:** 6 remote sessions (90 mins each) via [Zoom]
 * **Tools:** [Google Colab](https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9) (free, web-based Python environment)
 
 * **Communication:** [Platform Name, e.g., Slack, Email List] for questions & announcements
 * **Materials:** Slides & Colab notebooks provided before class
 * **Expectations:** Active participation, willingness to learn basic Python/data concepts.
-
-*(Optional: Add specific schedule, grading policy if applicable)*
 
 ---
 
@@ -75,8 +68,8 @@ Upon successful completion of this course, students will be able to:
 
 * **Traditional Goal of Materials Science:** Design and discover new materials with desired properties through experimentation and physical understanding.
 
-*![image](https://github.com/user-attachments/assets/b0961504-0e12-480f-9cc3-ea339b5f929d)
-*
+*![image](https://github.com/user-attachments/assets/b0961504-0e12-480f-9cc3-ea339b5f929d)*
+##### (Source:Hitachi)
 
 ---
 
@@ -96,9 +89,7 @@ Upon successful completion of this course, students will be able to:
 * **Data Science:** The practice of extracting knowledge and insights from data.
 * **Artificial Intelligence (AI):** Creating systems that can perform tasks typically requiring human intelligence.
 * **Machine Learning (ML):** A subset of AI where systems learn patterns from data without being explicitly programmed for each task.
-
-*[Diagram: Venn diagram showing AI > ML > Data Science context]*
-![image](https://github.com/user-attachments/assets/fe264a5c-8215-414b-9bb0-30869e8fc585)
+   ![image](https://github.com/user-attachments/assets/ff88bd7e-4d09-4b16-998d-fedabc1476c4)
 
 ---
 
@@ -121,9 +112,7 @@ Upon successful completion of this course, students will be able to:
     * **Slow:** Relies on intuition and many experiments.
     * **Expensive:** Lab equipment, materials, time.
     * **Complex:** Huge number of possible material combinations. (Imagine trying all possible recipes!)
-
-*[Image: A complex chemical structure or a messy lab bench]*
-
+![image](https://github.com/user-attachments/assets/fcfa4982-7659-46f1-8027-93a5eb6aaa71)
 ---
 
 ## Enter: Materials Informatics (MI)
@@ -133,7 +122,7 @@ Upon successful completion of this course, students will be able to:
 * Inspired by concepts like the **Materials Genome Initiative (MGI)**: Aiming to halve the time and cost of bringing new materials to market.
 
 *![image](https://github.com/user-attachments/assets/2e38735d-127c-4d08-8e7a-5f22243707c8)*
-######(Source:https://www.hitachi-hightech.com/us/en/products/ict-solution/randd/mi/) 
+###### (Source:https://www.hitachi-hightech.com/us/en/products/ict-solution/randd/mi/) 
 
 ---
 
@@ -143,12 +132,11 @@ Upon successful completion of this course, students will be able to:
 * **Discover New Candidates:** Search vast databases of potential materials to find promising candidates for a specific application (e.g., a better battery material).
 * **Optimize Processes:** Use data from manufacturing to improve material quality or reduce waste.
 * **Extract Knowledge:** Analyze scientific literature automatically to find trends or hidden correlations.
-
+![image](https://github.com/user-attachments/assets/fe264a5c-8215-414b-9bb0-30869e8fc585)
+##### (Source: Matminer)
 ---
 
 ## Part 4: A Simple MI Workflow
-
-*[Diagram: Simple flowchart]*
 
 1.  **Data Acquisition:**
     * Get data from experiments, simulations (computational chemistry/physics), databases (like Materials Project), or literature.
@@ -169,6 +157,8 @@ Upon successful completion of this course, students will be able to:
 5.  **Validation:**
     * Test the most promising predictions through targeted experiments or simulations.
     * *Challenge: Closing the loop back to the real world.*
+![image](https://github.com/user-attachments/assets/48789981-0610-4782-bba7-32710f6f9514)
+*** (Source:https://link.springer.com/chapter/10.1007/978-981-99-7456-6_4)
 
 ---
 

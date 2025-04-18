@@ -53,7 +53,7 @@
 
  The course is graded on a 100-point basis
 * Two Assignments/Quiz = 15 points each = 30 pts
-* Two Project Updates (oral presentations) =  10 pts each = 30 pts 
+* Two Project Updates (oral presentations) =  15 pts each = 30 pts 
 * Final Report (including oral presentation) = 40 pts
 * **Total** = 100 pts
 - Grading is done on a curve. We will report the mean and standard deviation of Lab Exercises and Exam.

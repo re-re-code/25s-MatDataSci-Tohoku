@@ -11,7 +11,7 @@
 | w06: Th: May 22 Module 6  | Applications of Materials Data Science- II    |      |     | Final Presentation    |
 |May 29 | | | | Final Report |
 ------------------------------------------------------------------------
-
+*Note: The Syllabus will be updated as the course progresses.
 
 ## Detailed Syllabus
 ### Module 1: Introduction to Materials Data Science 

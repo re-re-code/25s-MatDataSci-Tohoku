@@ -3,7 +3,7 @@
 #### Weekly Topics
 | Day:Date | Class Topic-Foundation | Class Topic-Practicum | Reading  | Due |
 |----------|----------|----------|----------|----------|
-| w01: Th:Apr 17 Module 1    | Intro to Materials Data Science     | VS Code, Git, Python    | -    | -    |
+| w01: Th:Apr 17 Module 1    | Intro to Materials Data Science     | VS Code, Git, Python    | [Paper 1](https://www.nature.com/articles/s41586-023-06735-9)   | -    |
 |  w02: Th: Apr 24 Module 2  | Data Acquisition and Preparation     |    |     | Find Data Set    |
 |  w03: Th: May 01 Module 3  | Machine/Deep Learning for Materials Science     |      |     | Project Update 1    |
 | w04: Th: May 08 Module 4   | Generative Modeling/Synthetic Data     |      |     |     |

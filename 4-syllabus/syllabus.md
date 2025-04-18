@@ -5,8 +5,8 @@
 |----------|----------|----------|----------|----------|
 | w01: Th:Apr 17 Module 1    | Intro to Materials Data Science     | VS Code, Git, Python    | [Paper 1](https://www.nature.com/articles/s41586-023-06735-9)   | -    |
 |  w02: Th: Apr 24 Module 2  | Data Acquisition and Preparation     |    |     | Find Data Set    |
-|  w03: Th: May 01 Module 3  | Machine/Deep Learning for Materials Science     |      |     | Project Update 1    |
-| w04: Th: May 08 Module 4   | Generative Modeling/Synthetic Data     |      |     |     |
+|  w03: Th: May 01 Module 3  | Machine/Deep Learning for Materials Science     |      |     | Project Update 1, Assignment/Quiz 1  |
+| w04: Th: May 08 Module 4   | Generative Modeling/Synthetic Data     |      |     |  Assignment/Quiz-2   |
 | w05: Th: May 15 Module 5   | Applications of Materials Data Science- I     |      |     | Project Update 2   |
 | w06: Th: May 22 Module 6  | Applications of Materials Data Science- II    |      |     | Final Presentation    |
 |May 29 | | | | Final Report |
@@ -52,9 +52,9 @@
 * 90–100: AA
 
  The course is graded on a 100-point basis
-* Two Assignments = 10 points each = 20 pts
+* Two Assignments/Quiz = 15 points each = 30 pts
 * Two Project Updates (oral presentations) =  10 pts each = 30 pts 
-* Final Report (including oral presentation) = 30 pts
+* Final Report (including oral presentation) = 40 pts
 * **Total** = 100 pts
 - Grading is done on a curve. We will report the mean and standard deviation of Lab Exercises and Exam.
 - All Lab Exercise assignments are submitted electronically by Midnight on the day they are due.

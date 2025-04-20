@@ -63,7 +63,7 @@
 ### Lectures
 Spring Semester, Thursday 06:00 PM to 07:30 PM, Remote/Synchronous on Zoom
 ### Consultations
-Exercise/Project questions and solutions can be discussed in the class [Slack Channel](https://tohoku-ds-consortium.slack.com/archives/C08NGAZTB5K) or 1 by 1. 
+Exercise/Project questions and solutions can be discussed in the class [Slack Channel](https://tohoku-ds-consortium.slack.com/archives/C08NGAZTB5K) or 1 on 1. 
 ### Project Template
 Please see the projectreport-template.md for the template in 5-proj
 ### Coding and Data Science Tools and Resources

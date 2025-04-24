@@ -1,0 +1,22 @@
+--find-links https://data.pyg.org/whl/torch-2.2.1+cpu.html
+
+# ── Deep Learning & GNN ────────────────────────────────
+torch==2.2.1
+torchvision==0.17.1
+torch-geometric==2.5.0
+torch-scatter==2.1.2+pt22cpu
+torch-sparse==0.6.18+pt22cpu
+torch-cluster==1.6.3+pt22cpu
+torch-spline-conv==1.2.2+pt22cpu
+
+# ── Data science staples ───────────────────────────────
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+networkx==3.1
+matplotlib==3.8.4
+tqdm==4.66.4
+
+# ── NLP / embedding demos ─────────────────────────────
+sentence-transformers==2.2.2
+fuzzywuzzy==0.18.0
